@@ -1,0 +1,4 @@
+name = "my-direct-mcp"
+main = "index.mjs"
+compatibility_date = "2024-03-20"
+
